@@ -11,8 +11,8 @@ def is_enabled(value, default):
 
 
 # PyroClient Setup 
-API_ID = int(environ['API_ID','22549633'])
-API_HASH = environ['API_HASH','34d8c9887fe445c1dac2228cbdf9ab48']
+API_ID = int(environ['API_ID',''])
+API_HASH = environ['API_HASH','']
 BOT_TOKEN = environ['BOT_TOKEN','']
 
 # Bot settings
